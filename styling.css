@@ -59,10 +59,10 @@ p {
 }
 
 i {
-  border-radius: 40%;
+  border-radius: 50%;
   background-color: red;
   color: white;
-  font-size: 50px;
+  font-size: 40px;
   padding: 15px;
 }
 
