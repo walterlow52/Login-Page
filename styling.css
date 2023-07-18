@@ -2,6 +2,9 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
+
+body {
   background: url("https://miro.medium.com/v2/resize:fit:870/0*ojIU84VO1XMGIn6_.jpg");
 }
 
