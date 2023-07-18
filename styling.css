@@ -54,10 +54,11 @@ p {
   font-weight: bold;
 }
 
-.fa-google {
+i {
   border-radius: 50%;
   background-color: red;
   color: white;
+  font-size: 30px;
   padding: 15px;
 }
 
